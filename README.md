@@ -1,4 +1,4 @@
-# Heart Disease Prediction using FEature Selection and Soft Voting Ensemble Model Building
+# Heart Disease Prediction using Feature Selection and Soft Voting Ensemble Model Building
 
 Early prediction of heart disease is crucial for preventing fatalities, given its status as the leading cause of death. This project leverages machine learning techniques to analyze a comprehensive dataset, aiming to identify patterns indicative of heart disease risk. Through feature selection and a Soft Voting Ensemble model, the project harnesses the power of various machine learning algorithms to enhance prediction accuracy.
 
