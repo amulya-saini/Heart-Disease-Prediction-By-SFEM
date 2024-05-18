@@ -23,9 +23,10 @@ To run this project, ensure you have Python 3.x installed on your system. Additi
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+```
 
 Alternatively, you can install the libraries using Anaconda:
 
 ```bash
 conda install numpy pandas matplotlib seaborn scikit-learn xgboost
-
+```
